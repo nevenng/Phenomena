@@ -1,6 +1,7 @@
 /**
  * Import client, and all db functions from the index.js file
  */
+
 const {
   client,
   createReport,
